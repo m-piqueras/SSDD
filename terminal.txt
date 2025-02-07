@@ -1,0 +1,7 @@
+1º gedit   (editor de texto)
+2º add	   (añadirlo al repositorio)
+3º commit -m   (guardar cambios)
+4º push	(subir al servidor)
+
+Para json:
+npm init, luego add, luego commit, luego push
